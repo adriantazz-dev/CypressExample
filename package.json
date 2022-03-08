@@ -1,0 +1,13 @@
+{
+  "name": "cypress_training",
+  "version": "1",
+  "description": "cypress training repo",
+  "main": "index.js",
+  "author": "Adrian Castro <adriantazz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "cypress": "^3.8.2",
+    "cypress-mochawesome-reporter": "^1.0.3"
+  }
+}
